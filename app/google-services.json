@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "853098120144",
+    "firebase_url": "https://my-application-test-c8ef4-default-rtdb.firebaseio.com",
+    "project_id": "my-application-test-c8ef4",
+    "storage_bucket": "my-application-test-c8ef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853098120144:android:7a0f3a865ad2e2569b2fd5",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853098120144-jkp562osi0oikqouq80h4galre6bpa9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqlI6h4GLZPGAURGCCskXmSW70_mqgsPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853098120144-jkp562osi0oikqouq80h4galre6bpa9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853098120144:android:50ad247d036016cd9b2fd5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication1555"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853098120144-jkp562osi0oikqouq80h4galre6bpa9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqlI6h4GLZPGAURGCCskXmSW70_mqgsPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853098120144-jkp562osi0oikqouq80h4galre6bpa9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853098120144:android:b84f20c5781638109b2fd5",
+        "android_client_info": {
+          "package_name": "com.foodRecipe.TheHungerGuide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853098120144-jkp562osi0oikqouq80h4galre6bpa9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqlI6h4GLZPGAURGCCskXmSW70_mqgsPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853098120144-jkp562osi0oikqouq80h4galre6bpa9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
